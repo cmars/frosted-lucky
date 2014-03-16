@@ -1,6 +1,6 @@
-[submodule "precise/tor-service"]
-	path = precise/tor-service
-	url = git@github.com:cmars/tor-service-charm.git
+[submodule "precise/tor"]
+	path = precise/tor
+	url = https://github.com/cmars/tor-charm.git
 [submodule "precise/hockeypuck"]
 	path = precise/hockeypuck
 	url = https://github.com/hockeypuck/hockeypuck-charm.git
