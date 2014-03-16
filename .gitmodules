@@ -1,9 +1,9 @@
-[submodule "precise/tor"]
-	path = precise/tor
-	url = https://github.com/cmars/tor-charm.git
 [submodule "precise/hockeypuck"]
 	path = precise/hockeypuck
 	url = https://github.com/hockeypuck/hockeypuck-charm.git
 [submodule "precise/sks"]
 	path = precise/sks
 	url = https://github.com/hockeypuck/sks-charm.git
+[submodule "precise/tor"]
+	path = precise/tor
+	url = https://github.com/cmars/tor-charm.git
