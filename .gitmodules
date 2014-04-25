@@ -7,3 +7,6 @@
 [submodule "precise/tor"]
 	path = precise/tor
 	url = https://github.com/cmars/tor-charm.git
+[submodule "precise/camlistore"]
+	path = precise/camlistore
+	url = git@github.com:cmars/camlistore-charm.git
