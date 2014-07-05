@@ -10,3 +10,6 @@
 [submodule "precise/camlistore"]
 	path = precise/camlistore
 	url = git@github.com:cmars/camlistore-charm.git
+[submodule "precise/tokumx"]
+	path = precise/tokumx
+	url = https://github.com/cmars/tokumx-charm.git
